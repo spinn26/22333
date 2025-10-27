@@ -1,0 +1,8 @@
+google-analytics-data
+google-api-python-client
+google-auth-oauthlib
+requests_oauthlib
+dlt[postgres]>=0.5.1
+facebook-business>=16.0.2
+pandas
+dlt[parquet]

@@ -1,0 +1,5 @@
+# from facebook_ads import get_long_lived_token
+# print(get_long_lived_token("EAAQgTeaKjEcBPlhMa8ZC90v3VsGALaqFeEZA64Be4nPhraaZB6Ryn9uRafWYIy7hljn1JXuvfgnZCJh3NCThFSKplxBzyqRjdBZCWW5cGxHZA0xQdhh3G9iwgvJZB6QpwGU6xHKsxBRhvWeQPGAAavIjhfsolMw1FOjk3ZBt098jZBLx9hQwoSAKdFzubEn1rI5XHUTV8Rm5Hil0DHlD2ULtw1utDb3S4dL9o0VoE"))
+
+from facebook_ads import debug_access_token
+print(debug_access_token())
